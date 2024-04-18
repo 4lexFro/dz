@@ -1,0 +1,79 @@
+INFO 2024-03-28 17:40:01,929 autoreload 13296 123460393689088 Watching for file changes with StatReloader
+INFO 2024-03-28 17:40:06,680 basehttp 13296 123460343096896 "GET /about/ HTTP/1.1" 200 314
+INFO 2024-03-28 17:40:22,237 basehttp 13296 123460343096896 "GET /about/ HTTP/1.1" 200 314
+INFO 2024-03-28 17:40:27,514 basehttp 13296 123460343096896 "GET / HTTP/1.1" 200 354
+INFO 2024-04-01 16:36:31,365 autoreload 6950 139595468709888 Watching for file changes with StatReloader
+INFO 2024-04-01 16:36:34,948 basehttp 6950 139595418310208 "GET / HTTP/1.1" 200 354
+WARNING 2024-04-01 16:36:45,570 log 6950 139595418310208 Not Found: /favicon.ico
+WARNING 2024-04-01 16:36:45,574 basehttp 6950 139595418310208 "GET /favicon.ico HTTP/1.1" 404 2434
+INFO 2024-04-01 16:39:35,714 autoreload 6950 139595468709888 /home/alexfro/GeekBrains/Django/djangoProject/dz/dz/settings.py changed, reloading.
+INFO 2024-04-01 16:39:36,290 autoreload 7099 130300511551488 Watching for file changes with StatReloader
+INFO 2024-04-16 14:06:42,306 autoreload 4556 126099364130816 Watching for file changes with StatReloader
+INFO 2024-04-16 14:09:07,346 autoreload 4834 135429479084032 Watching for file changes with StatReloader
+INFO 2024-04-16 14:14:54,919 autoreload 4997 138983757033472 Watching for file changes with StatReloader
+INFO 2024-04-16 14:15:01,975 basehttp 4997 138983698855488 "GET / HTTP/1.1" 200 9678
+INFO 2024-04-16 14:15:04,671 basehttp 4997 138983698855488 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2024-04-16 14:15:04,712 basehttp 4997 138983688365632 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+INFO 2024-04-16 14:15:06,398 basehttp 4997 138983688365632 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-04-16 14:15:06,428 basehttp 4997 138983698855488 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+WARNING 2024-04-16 14:15:10,434 log 4997 138983698855488 Not Found: /favicon.ico
+WARNING 2024-04-16 14:15:10,482 basehttp 4997 138983698855488 "GET /favicon.ico HTTP/1.1" 404 12101
+INFO 2024-04-16 14:16:06,900 basehttp 4997 138983698855488 "GET /__debug__/render_panel/?store_id=9ec3f62df86b46f3a935f6a7aeaff708&panel_id=HistoryPanel HTTP/1.1" 200 3848
+INFO 2024-04-16 14:16:06,934 basehttp 4997 138983698855488 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3515
+INFO 2024-04-16 14:16:17,881 basehttp 4997 138983698855488 "GET /__debug__/history_sidebar/?store_id=ac870cde0e88406ab2ee48cbe563d531&exclude_history=True HTTP/1.1" 200 8312
+INFO 2024-04-16 14:16:19,119 basehttp 4997 138983698855488 "GET /__debug__/history_sidebar/?store_id=9ec3f62df86b46f3a935f6a7aeaff708&exclude_history=True HTTP/1.1" 200 8302
+INFO 2024-04-16 14:16:21,203 basehttp 4997 138983698855488 "GET /__debug__/history_sidebar/?store_id=ac870cde0e88406ab2ee48cbe563d531&exclude_history=True HTTP/1.1" 200 8312
+INFO 2024-04-16 14:16:23,454 basehttp 4997 138983698855488 "GET /__debug__/history_sidebar/?store_id=9ec3f62df86b46f3a935f6a7aeaff708&exclude_history=True HTTP/1.1" 200 8302
+INFO 2024-04-16 14:16:24,878 basehttp 4997 138983698855488 "GET /__debug__/history_sidebar/?store_id=ac870cde0e88406ab2ee48cbe563d531&exclude_history=True HTTP/1.1" 200 8312
+INFO 2024-04-16 14:16:31,310 basehttp 4997 138983698855488 "GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=VersionsPanel HTTP/1.1" 200 622
+INFO 2024-04-16 14:16:40,371 basehttp 4997 138983698855488 "GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=TimerPanel HTTP/1.1" 200 1378
+INFO 2024-04-16 14:16:40,445 basehttp 4997 138983698855488 "GET /static/debug_toolbar/js/timer.js HTTP/1.1" 200 3686
+INFO 2024-04-16 14:16:54,642 basehttp 4997 138983698855488 "GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=SettingsPanel HTTP/1.1" 200 26707
+INFO 2024-04-16 14:17:18,914 basehttp 4997 138983698855488 "GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=HeadersPanel HTTP/1.1" 200 4192
+INFO 2024-04-16 14:17:59,205 basehttp 4997 138983698855488 "GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=RequestPanel HTTP/1.1" 200 1253
+INFO 2024-04-16 14:18:35,605 basehttp 4997 138983698855488 "GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=SQLPanel HTTP/1.1" 200 115
+INFO 2024-04-16 14:19:25,176 basehttp 4997 138983698855488 "GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=StaticFilesPanel HTTP/1.1" 200 33286
+INFO 2024-04-16 14:20:02,285 basehttp 4997 138983698855488 "GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=TemplatesPanel HTTP/1.1" 200 28188
+INFO 2024-04-16 14:25:29,578 autoreload 5860 133239314976768 Watching for file changes with StatReloader
+INFO 2024-04-16 14:25:37,447 basehttp 5860 133239255594560 "GET / HTTP/1.1" 200 9678
+WARNING 2024-04-16 14:25:45,977 log 5860 133239255594560 Not Found: /favicon.ico
+WARNING 2024-04-16 14:25:45,990 basehttp 5860 133239255594560 "GET /favicon.ico HTTP/1.1" 404 12101
+INFO 2024-04-16 14:25:46,897 basehttp 5860 133239255594560 "GET /__debug__/render_panel/?store_id=32f8853831bc43c7908ec92b4ba5d9cc&panel_id=TemplatesPanel HTTP/1.1" 200 167
+INFO 2024-04-16 14:30:31,932 basehttp 5860 133239255594560 "GET / HTTP/1.1" 200 9677
+INFO 2024-04-16 14:30:35,203 basehttp 5860 133239255594560 "GET /__debug__/render_panel/?store_id=985568bce4a64b4f86fc03933d316f46&panel_id=TemplatesPanel HTTP/1.1" 200 167
+INFO 2024-04-16 14:37:48,093 autoreload 7828 135217455837184 Watching for file changes with StatReloader
+INFO 2024-04-16 14:57:25,295 autoreload 8325 132149490593792 Watching for file changes with StatReloader
+INFO 2024-04-16 14:57:28,473 basehttp 8325 132149361505856 "GET / HTTP/1.1" 200 9678
+INFO 2024-04-16 14:57:32,215 basehttp 8325 132149361505856 "GET /__debug__/render_panel/?store_id=887799d7679f47f4993200f6fd1d1990&panel_id=TemplatesPanel HTTP/1.1" 200 167
+INFO 2024-04-16 14:57:59,991 basehttp 8325 132149361505856 "GET /__debug__/render_panel/?store_id=887799d7679f47f4993200f6fd1d1990&panel_id=StaticFilesPanel HTTP/1.1" 200 33286
+INFO 2024-04-16 14:59:39,037 basehttp 8325 132149361505856 "GET /__debug__/render_panel/?store_id=887799d7679f47f4993200f6fd1d1990&panel_id=CachePanel HTTP/1.1" 200 1413
+INFO 2024-04-16 14:59:43,701 basehttp 8325 132149361505856 "GET /__debug__/render_panel/?store_id=887799d7679f47f4993200f6fd1d1990&panel_id=SignalsPanel HTTP/1.1" 200 2107
+WARNING 2024-04-16 15:08:48,805 log 8325 132149361505856 Not Found: /user/
+WARNING 2024-04-16 15:08:48,806 basehttp 8325 132149361505856 "GET /user/ HTTP/1.1" 404 12076
+WARNING 2024-04-16 15:08:57,517 log 8325 132149361505856 Not Found: /user/add
+WARNING 2024-04-16 15:08:57,518 basehttp 8325 132149361505856 "GET /user/add HTTP/1.1" 404 12088
+INFO 2024-04-16 15:09:00,881 basehttp 8325 132149361505856 "GET /__debug__/render_panel/?store_id=f4da9195a0ac468985c2065ae54db15d&panel_id=TemplatesPanel HTTP/1.1" 200 28182
+WARNING 2024-04-16 15:09:12,915 log 8325 132149361505856 Not Found: /index/
+WARNING 2024-04-16 15:09:12,916 basehttp 8325 132149361505856 "GET /index/ HTTP/1.1" 404 12080
+INFO 2024-04-16 15:09:40,558 autoreload 8714 133758079905792 Watching for file changes with StatReloader
+INFO 2024-04-16 15:09:43,764 basehttp 8714 133758019696192 "GET / HTTP/1.1" 200 9677
+INFO 2024-04-16 15:09:48,287 basehttp 8714 133758019696192 "GET /__debug__/render_panel/?store_id=de7e95ba17344cde85c885cf35d077ee&panel_id=TemplatesPanel HTTP/1.1" 200 167
+INFO 2024-04-18 10:59:15,949 autoreload 5275 126479749562368 Watching for file changes with StatReloader
+INFO 2024-04-18 10:59:36,354 autoreload 5275 126479749562368 /home/alexfro/GeekBrains/Django/djangoProject/dz/dz/settings.py changed, reloading.
+INFO 2024-04-18 10:59:42,335 autoreload 5319 137311904940032 Watching for file changes with StatReloader
+INFO 2024-04-18 10:59:46,551 basehttp 5319 137311776929344 "GET / HTTP/1.1" 200 9677
+INFO 2024-04-18 10:59:46,852 basehttp 5319 137311776929344 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-04-18 10:59:46,868 basehttp 5319 137311767488064 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-04-18 10:59:48,105 basehttp 5319 137311767488064 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-04-18 10:59:48,677 basehttp 5319 137311767488064 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2024-04-18 10:59:50,258 log 5319 137311767488064 Not Found: /favicon.ico
+WARNING 2024-04-18 10:59:50,260 basehttp 5319 137311767488064 "GET /favicon.ico HTTP/1.1" 404 12100
+INFO 2024-04-18 10:59:52,814 basehttp 5319 137311767488064 "GET /__debug__/render_panel/?store_id=a9aa05db1c6e4f64b1aa0829fb920f6b&panel_id=TemplatesPanel HTTP/1.1" 200 167
+INFO 2024-04-18 10:59:55,060 basehttp 5319 137311767488064 "GET /__debug__/render_panel/?store_id=a9aa05db1c6e4f64b1aa0829fb920f6b&panel_id=CachePanel HTTP/1.1" 200 1413
+INFO 2024-04-18 10:59:56,869 basehttp 5319 137311767488064 "GET /__debug__/render_panel/?store_id=a9aa05db1c6e4f64b1aa0829fb920f6b&panel_id=SettingsPanel HTTP/1.1" 200 26686
+INFO 2024-04-18 10:59:58,798 basehttp 5319 137311767488064 "GET /__debug__/render_panel/?store_id=a9aa05db1c6e4f64b1aa0829fb920f6b&panel_id=HeadersPanel HTTP/1.1" 200 4330
+INFO 2024-04-18 11:11:42,285 autoreload 5319 137311904940032 /home/alexfro/GeekBrains/Django/djangoProject/dz/dz/settings.py changed, reloading.
+INFO 2024-04-18 11:11:43,947 autoreload 5849 128398219657216 Watching for file changes with StatReloader
+INFO 2024-04-18 11:12:51,267 autoreload 5849 128398219657216 /home/alexfro/GeekBrains/Django/djangoProject/dz/dz/settings.py changed, reloading.
+INFO 2024-04-18 11:12:52,325 autoreload 5882 132324305936384 Watching for file changes with StatReloader
+INFO 2024-04-18 11:13:43,747 autoreload 5882 132324305936384 /home/alexfro/GeekBrains/Django/djangoProject/dz/dz/settings.py changed, reloading.

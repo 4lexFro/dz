@@ -1,0 +1,74 @@
+INFO:root:Посещена страница 'о себе'
+INFO:django.server:"GET /about/ HTTP/1.1" 200 314
+INFO:root:Посещена страница 'о себе'
+INFO:django.server:"GET /about/ HTTP/1.1" 200 314
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 354
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 354
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.server:"GET /favicon.ico HTTP/1.1" 404 2434
+INFO:django.utils.autoreload:/home/alexfro/GeekBrains/Django/djangoProject/dz/dz/settings.py changed, reloading.
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 9678
+INFO:django.server:"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO:django.server:"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+INFO:django.server:"GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO:django.server:"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.server:"GET /favicon.ico HTTP/1.1" 404 12101
+INFO:django.server:"GET /__debug__/render_panel/?store_id=9ec3f62df86b46f3a935f6a7aeaff708&panel_id=HistoryPanel HTTP/1.1" 200 3848
+INFO:django.server:"GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3515
+INFO:django.server:"GET /__debug__/history_sidebar/?store_id=ac870cde0e88406ab2ee48cbe563d531&exclude_history=True HTTP/1.1" 200 8312
+INFO:django.server:"GET /__debug__/history_sidebar/?store_id=9ec3f62df86b46f3a935f6a7aeaff708&exclude_history=True HTTP/1.1" 200 8302
+INFO:django.server:"GET /__debug__/history_sidebar/?store_id=ac870cde0e88406ab2ee48cbe563d531&exclude_history=True HTTP/1.1" 200 8312
+INFO:django.server:"GET /__debug__/history_sidebar/?store_id=9ec3f62df86b46f3a935f6a7aeaff708&exclude_history=True HTTP/1.1" 200 8302
+INFO:django.server:"GET /__debug__/history_sidebar/?store_id=ac870cde0e88406ab2ee48cbe563d531&exclude_history=True HTTP/1.1" 200 8312
+INFO:django.server:"GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=VersionsPanel HTTP/1.1" 200 622
+INFO:django.server:"GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=TimerPanel HTTP/1.1" 200 1378
+INFO:django.server:"GET /static/debug_toolbar/js/timer.js HTTP/1.1" 200 3686
+INFO:django.server:"GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=SettingsPanel HTTP/1.1" 200 26707
+INFO:django.server:"GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=HeadersPanel HTTP/1.1" 200 4192
+INFO:django.server:"GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=RequestPanel HTTP/1.1" 200 1253
+INFO:django.server:"GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=SQLPanel HTTP/1.1" 200 115
+INFO:django.server:"GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=StaticFilesPanel HTTP/1.1" 200 33286
+INFO:django.server:"GET /__debug__/render_panel/?store_id=ac870cde0e88406ab2ee48cbe563d531&panel_id=TemplatesPanel HTTP/1.1" 200 28188
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 9678
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.server:"GET /favicon.ico HTTP/1.1" 404 12101
+INFO:django.server:"GET /__debug__/render_panel/?store_id=32f8853831bc43c7908ec92b4ba5d9cc&panel_id=TemplatesPanel HTTP/1.1" 200 167
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 9677
+INFO:django.server:"GET /__debug__/render_panel/?store_id=985568bce4a64b4f86fc03933d316f46&panel_id=TemplatesPanel HTTP/1.1" 200 167
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 9678
+INFO:django.server:"GET /__debug__/render_panel/?store_id=887799d7679f47f4993200f6fd1d1990&panel_id=TemplatesPanel HTTP/1.1" 200 167
+INFO:django.server:"GET /__debug__/render_panel/?store_id=887799d7679f47f4993200f6fd1d1990&panel_id=StaticFilesPanel HTTP/1.1" 200 33286
+INFO:django.server:"GET /__debug__/render_panel/?store_id=887799d7679f47f4993200f6fd1d1990&panel_id=CachePanel HTTP/1.1" 200 1413
+INFO:django.server:"GET /__debug__/render_panel/?store_id=887799d7679f47f4993200f6fd1d1990&panel_id=SignalsPanel HTTP/1.1" 200 2107
+WARNING:django.request:Not Found: /user/
+WARNING:django.server:"GET /user/ HTTP/1.1" 404 12076
+WARNING:django.request:Not Found: /user/add
+WARNING:django.server:"GET /user/add HTTP/1.1" 404 12088
+INFO:django.server:"GET /__debug__/render_panel/?store_id=f4da9195a0ac468985c2065ae54db15d&panel_id=TemplatesPanel HTTP/1.1" 200 28182
+WARNING:django.request:Not Found: /index/
+WARNING:django.server:"GET /index/ HTTP/1.1" 404 12080
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 9677
+INFO:django.server:"GET /__debug__/render_panel/?store_id=de7e95ba17344cde85c885cf35d077ee&panel_id=TemplatesPanel HTTP/1.1" 200 167
+INFO:root:Посещена главная страница
+INFO:django.server:"GET / HTTP/1.1" 200 9677
+INFO:django.server:"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO:django.server:"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO:django.server:"GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO:django.server:"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.server:"GET /favicon.ico HTTP/1.1" 404 12100
+INFO:django.server:"GET /__debug__/render_panel/?store_id=a9aa05db1c6e4f64b1aa0829fb920f6b&panel_id=TemplatesPanel HTTP/1.1" 200 167
+INFO:django.server:"GET /__debug__/render_panel/?store_id=a9aa05db1c6e4f64b1aa0829fb920f6b&panel_id=CachePanel HTTP/1.1" 200 1413
+INFO:django.server:"GET /__debug__/render_panel/?store_id=a9aa05db1c6e4f64b1aa0829fb920f6b&panel_id=SettingsPanel HTTP/1.1" 200 26686
+INFO:django.server:"GET /__debug__/render_panel/?store_id=a9aa05db1c6e4f64b1aa0829fb920f6b&panel_id=HeadersPanel HTTP/1.1" 200 4330
+INFO:django.utils.autoreload:/home/alexfro/GeekBrains/Django/djangoProject/dz/dz/settings.py changed, reloading.
+INFO:django.utils.autoreload:/home/alexfro/GeekBrains/Django/djangoProject/dz/dz/settings.py changed, reloading.
+INFO:django.utils.autoreload:/home/alexfro/GeekBrains/Django/djangoProject/dz/dz/settings.py changed, reloading.
